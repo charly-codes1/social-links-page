@@ -27,7 +27,7 @@ Users should be able to:
 ![](./assets/images/screenshot.jpg)
 ### Links
 - Solution URL: [https://github.com/charly-codes1/social-links-page.git](https://github.com/charly-codes1/social-links-page.git)
-- Live Site URL: [https://github.com/charly-codes1/social-links-page.git](https://github.com/charly-codes1/social-links-page.git
+- Live Site URL: [https://github.com/charly-codes1/social-links-page.git](https://github.com/charly-codes1/social-links-page.git)
 
 ## My process
 My Process for Building the "Social Links Profile" Project
