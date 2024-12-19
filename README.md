@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/screenshot.jpg)
+![](assets/images/screenshoot-no hover reaalll.jpg,assets/images/screenshot ,hover with name.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/charly-codes1/social-links-page.git](https://github.com/charly-codes1/social-links-page.git)
+- Live Site URL: [https://github.com/charly-codes1/social-links-page.git](https://github.com/charly-codes1/social-links-page.git
 
 ## My process
 My Process for Building the "Social Links Profile" Project
@@ -136,35 +136,54 @@ Finally, I plan to optimize the profile card further by reducing unnecessary pad
 To see how you can add code snippets, see below:
 
 ```html
-<div class="links">
-  <div class="d-grid gap-2 col-6 mx-auto w-100">
-    <button class="btn" type="button">FrontendMentor</button>
-    <button class="btn" type="button">LinkedIn</button>
-  </div>
-  <div class="d-grid gap-2 col-6 mx-auto w-100">
-    <button class="btn" type="button">Twitter</button>
-    <button class="btn" type="button">Instagram</button>
-  </div>
-</div>
+<body>
+  <div class="cards">
+      <img src="assets/images/avatar-jessica.jpeg" class="profile-image" alt="Jessica Randall">
+      <h1 class="h1">Jessica Randall</h1>
+      <p class="header">London, United Kingdom</p>
+      <p>"Front-end developer and avid reader."</p>
+      <div class="columns">
+      <button>GitHub</button>
+      <button>Frontend Mentor</button>
+      <button>LinkedIn</button>
+      <button>Twitter</button>
+      <button>Instagram</button>
+      </div>
+    </div>
+    <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="https://github.com/charly-codes1" target="_blank" rel="noopener">Oluwaseun Bamgbala</a>.
+    </div>
+</body>
 
 ```
 ```css
-.proud-of-this-css {
-  @media (min-width: 1024px) {
-    .links {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 20px;
+   @media (max-width: 768px) {
+    .cards {
+        padding: 24px;
     }
-
-    .links button {
-        width: auto;
-        max-width: 200px;
+    
+    .columns button {
+        font-size: 14px;
+        padding: 12px;
     }
-}
-
-}
+    }
+    
+    .attribution {
+        position: absolute;
+        bottom: 3rem;
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+        font-size: 1.1rem;
+        text-align: center;
+        color: #ffffff;;
+    }
+    
+    .attribution a {
+        color: #c5f82a;
+    }
 ```
 
 
@@ -202,3 +221,5 @@ By focusing on these areas, I aim to continue building on my strengths and refin
 ## Author
 - Github- [charly-codes1](https://github.com/charly-codes1/charly-codes1)
 - Frontend Mentor - [@charly-codes1](https://www.frontendmentor.io/profile/@charly-codes1)
+
+- Linkdin -@Oluwaseun Bamgbala
