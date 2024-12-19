@@ -24,11 +24,8 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-![](assets/images/screenshoot.jpg.jpg,)
-
+![](./assets/images/screenshot.jpg)
 ### Links
-
 - Solution URL: [https://github.com/charly-codes1/social-links-page.git](https://github.com/charly-codes1/social-links-page.git)
 - Live Site URL: [https://github.com/charly-codes1/social-links-page.git](https://github.com/charly-codes1/social-links-page.git
 
@@ -155,6 +152,7 @@ To see how you can add code snippets, see below:
       Coded by <a href="https://github.com/charly-codes1" target="_blank" rel="noopener">Oluwaseun Bamgbala</a>.
     </div>
 </body>
+
 
 ```
 ```css
