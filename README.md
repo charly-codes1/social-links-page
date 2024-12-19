@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/screenshoot-no hover reaalll.jpg,assets/images/screenshot ,hover with name.jpg)
+![](assets/images/screenshoot.jpg.jpg,)
 
 ### Links
 
