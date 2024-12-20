@@ -68,9 +68,9 @@ body {
     }
     
     .columns button:hover {
-    background-color: #c5f82a;
+    background-color: yellowgreen;
     color: #141414;
-    box-shadow: 0 0 10px #c5f82a;
+    box-shadow: 0 0 10px yellowgreen;
     }
     
     /* Responsive Adjustments */
@@ -98,5 +98,5 @@ body {
     }
     
     .attribution a {
-        color: #c5f82a;
+        color:greenyellow
     }
